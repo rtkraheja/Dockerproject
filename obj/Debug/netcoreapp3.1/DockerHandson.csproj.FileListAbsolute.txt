@@ -1,0 +1,9 @@
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\DockerHandson.csprojAssemblyReference.cache
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\DockerHandson.AssemblyInfoInputs.cache
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\DockerHandson.AssemblyInfo.cs
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\DockerHandson.RazorTargetAssemblyInfo.cache
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\staticwebassets\DockerHandson.StaticWebAssets.Manifest.cache
+C:\Users\Ritik\source\repos\DockerHandson\DockerHandson\obj\Debug\netcoreapp3.1\staticwebassets\DockerHandson.StaticWebAssets.xml
